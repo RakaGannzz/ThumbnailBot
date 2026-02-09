@@ -1,0 +1,2 @@
+# ThumbnailBot
+Gatau
